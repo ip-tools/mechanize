@@ -1,2 +1,2 @@
-"0.4.2"
-__version__ = (0, 4, 2, None, None)
+"0.4.3dev1"
+__version__ = (0, 4, 3, 'dev1', None)
